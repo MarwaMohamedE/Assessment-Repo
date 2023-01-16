@@ -1,0 +1,12 @@
+The "RoverCommands" is a function that tell us the coordinates and heading of the Rover :
+(x,y) are the coordinates
+(NOURTH, SOUTH, EAST, WEST) are the headings.
+I used for loop to tell it some of command anything other than these command should be undefined.
+
+Details:
+icluded of first Symble is "F" means to move forward
+Second Symble is "B" means to move Backward
+Third Symble is "L" means to move Left
+Fourth Symble is "R" means to move Right
+it makes his result depends of the heading and the command i told him
+I used these symble and headings in my for loop.
